@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+.maintenance-container {
+  
+  text-align:center;
+  
+  }
+
+h2 {
+  
+
+ font-family: quicksand, sans-serif;
+  font-size:38px;
+  
+  }
+
+label {
+  
+  
+   font-family: quicksand, sans-serif;
+  font-size:29px;
+  
+  
+  }
+
+
+
+input {  
+  font-family: quicksand, sans-serif;
+  padding:8;
+  border-radius:21px;
+  text-align:center;
+  
+  
+  }
+
+
+button {
+  
+   font-family: quicksand, sans-serif;
+  padding:9;
+   border-radius:21px;
+  text-align:center;
+  
+  
+  }

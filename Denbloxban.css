@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://kit-pro.fontawesome.com/releases/v6.1.2/css/pro.min.css');
+.rules {
+  
+ transition: all 0.3s ease;
+  text-align: center;
+  color:red;
+  font-size:24px;
+  font-family:Montserrat, sans-serif;
+  font-weight:900;
+  }
+
+.reason {
+  
+ 
+  text-align: center;
+  color:blue;
+  font-size:29px;font-family:Montserrat, sans-serif;
+  font-weight:900;
+ background-color:rgb(255, 224, 224);
+    border-radius:15px;
+    padding:15px;
+  }
+
+body {
+  
+  background-color:#e0f0ff;
+  
+  }
+  
+  

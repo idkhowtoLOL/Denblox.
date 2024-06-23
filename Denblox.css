@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://kit-pro.fontawesome.com/releases/v6.1.2/css/pro.min.css');
+h2 {
+  
+  font-family:Montserrat, sans-serif;
+  font-weight:900;
+ margin: 2px 400px;  
+      transition: all 0.3s ease;
+  
+  }
+h1 {
+  
+  font-family:Montserrat, sans-serif;
+  font-weight:900;
+ margin: 2px 400px;  
+      transition: all 0.3s ease;
+  }
+
+
+p {
+  
+  font-family:Montserrat, sans-serif;
+  font-weight:900;
+ margin: 2px 400px;  
+      transition: all 0.3s ease;
+  }
+
+input {
+   
+  border-radius:17px 14px;
+  padding: 12px 12px;
+  font-family: "Montserrat", sans-serif;
+  text-align:center;
+  transition: all 0.3s ease;
+     border-style: double;
+      font-weight: 500;
+  }
+  
+
+
+.username {
+  
+  
+  text-align:center;
+  }
+  
+  .password {
+  
+  
+  text-align:center;
+  
+  }
+
+.email {
+  
+  
+  text-align:center;
+  
+  
+}
+
+.register {
+  
+text-align:center;
+  
+}
+
+ 
+button {
+  
+  font-family: "Montserrat", sans-serif;
+    border-radius: 8px 13px;
+    color: rgb(100, 120, 120);
+    border-color: rgb(200, 200, 200);
+    background-color: rgb(300, 200, 100);
+    padding: 8px 20px;
+    font-weight: 500;
+    font-size: medium;
+    transition: all 0.3s ease;
+    border-style: double;
+    cursor: pointer;
+  
+  }
+
+
+
+
+.appealing {
+  
+  
+  text-align:center;
+  
+  }
+
+ body {
+  
+  
+  
+  
+  background-color: #e0f0ff;
+  
+  
+  }
+
+.appealing {
+  
+  
+  text-align:center;
+  
+  }
+
+.logout {
+  
+  
+  text-align:center;
+
+  
+}
+
+
+
+
+
+
+
+

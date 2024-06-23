@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://kit-pro.fontawesome.com/releases/v6.1.2/css/pro.min.css');
+
+
+body {
+  
+  
+  background-color: #e0f0ff;
+  
+  
+  }
+
+
+.member {
+  
+  
+  text-align:center;
+  
+  font-family:Montserrat,sans-serif;
+  
+  }
+
+
+button {
+  
+  padding:23px;
+  border-radius:22px;
+  font-size:22px;
+  
+  font-family:Montserrat,sans-serif;
+  border-color:#ADD8E6;
+  transition: all 0.3s ease;
+     border-style: double;
+      font-weight: 500;
+  background-color:#FFF000;
+  }
+
+.denbloximg {
+  
+  
+  text-align:center;
+  }
+
+h1 {
+  
+  font-size:25px;
+  color:#ADD8E6;
+  
+  }
+
+
+
+
+.navbar ul {
+  
+  list-style-type: none;
+    background-color:#ADD8E6;
+  padding:0px;
+    margin:0px;
+  overflow:hidden;
+    border-radius:25px;
+  
+  }
+
+
+.navbar a {
+  
+  text-decoration: none;
+ 
+  display: block;
+  padding:15px;
+  font-family:Montserrat, sans-serif;
+  font-weight:900;
+  color:#e0f0ff;
+
+  }
+
+
+
+.navbar li {
+  
+  float: left;
+  
+  
+  
+  }
